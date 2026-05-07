@@ -1,0 +1,2691 @@
+﻿{
+    "kpis":  {
+                 "total_estados":  27,
+                 "total_municipios":  5570,
+                 "media_nacional_acesso_agua":  80.5,
+                 "media_nacional_cobertura_esgoto":  53.8
+             },
+    "top_investimento_estados":  [
+                                     {
+                                         "estado":  "Rondonia",
+                                         "sigla_uf":  "RO",
+                                         "investimento_total":  2049540000,
+                                         "media_acesso_agua":  80.9,
+                                         "media_cobertura_esgoto":  54.9
+                                     },
+                                     {
+                                         "estado":  "Mato Grosso",
+                                         "sigla_uf":  "MT",
+                                         "investimento_total":  1724250000,
+                                         "media_acesso_agua":  77.8,
+                                         "media_cobertura_esgoto":  54.9
+                                     },
+                                     {
+                                         "estado":  "Maranhao",
+                                         "sigla_uf":  "MA",
+                                         "investimento_total":  1721160000,
+                                         "media_acesso_agua":  79.8,
+                                         "media_cobertura_esgoto":  55.4
+                                     },
+                                     {
+                                         "estado":  "Rio Grande do Sul",
+                                         "sigla_uf":  "RS",
+                                         "investimento_total":  1701360000,
+                                         "media_acesso_agua":  79.3,
+                                         "media_cobertura_esgoto":  55.4
+                                     },
+                                     {
+                                         "estado":  "Goias",
+                                         "sigla_uf":  "GO",
+                                         "investimento_total":  1682340000,
+                                         "media_acesso_agua":  81.8,
+                                         "media_cobertura_esgoto":  54.1
+                                     },
+                                     {
+                                         "estado":  "Rio Grande do Norte",
+                                         "sigla_uf":  "RN",
+                                         "investimento_total":  1660740000,
+                                         "media_acesso_agua":  81.3,
+                                         "media_cobertura_esgoto":  55.9
+                                     },
+                                     {
+                                         "estado":  "Espirito Santo",
+                                         "sigla_uf":  "ES",
+                                         "investimento_total":  1487940000,
+                                         "media_acesso_agua":  80.2,
+                                         "media_cobertura_esgoto":  56.4
+                                     },
+                                     {
+                                         "estado":  "Rio de Janeiro",
+                                         "sigla_uf":  "RJ",
+                                         "investimento_total":  1335180000,
+                                         "media_acesso_agua":  83.1,
+                                         "media_cobertura_esgoto":  56.4
+                                     },
+                                     {
+                                         "estado":  "Distrito Federal",
+                                         "sigla_uf":  "DF",
+                                         "investimento_total":  1180040000,
+                                         "media_acesso_agua":  78.7,
+                                         "media_cobertura_esgoto":  56.9
+                                     },
+                                     {
+                                         "estado":  "Piaui",
+                                         "sigla_uf":  "PI",
+                                         "investimento_total":  1174910000,
+                                         "media_acesso_agua":  78.2,
+                                         "media_cobertura_esgoto":  54.7
+                                     }
+                                 ],
+    "estados":  [
+                    {
+                        "estado":  "Acre",
+                        "sigla_uf":  "AC",
+                        "investimento_total":  127140000,
+                        "media_acesso_agua":  83.3,
+                        "media_cobertura_esgoto":  54.4
+                    },
+                    {
+                        "estado":  "Alagoas",
+                        "sigla_uf":  "AL",
+                        "investimento_total":  321540000,
+                        "media_acesso_agua":  81.5,
+                        "media_cobertura_esgoto":  53.9
+                    },
+                    {
+                        "estado":  "Amapa",
+                        "sigla_uf":  "AP",
+                        "investimento_total":  515940000,
+                        "media_acesso_agua":  79.5,
+                        "media_cobertura_esgoto":  53.4
+                    },
+                    {
+                        "estado":  "Amazonas",
+                        "sigla_uf":  "AM",
+                        "investimento_total":  653590000,
+                        "media_acesso_agua":  77.5,
+                        "media_cobertura_esgoto":  52.9
+                    },
+                    {
+                        "estado":  "Bahia",
+                        "sigla_uf":  "BA",
+                        "investimento_total":  825270000,
+                        "media_acesso_agua":  82.4,
+                        "media_cobertura_esgoto":  50.7
+                    },
+                    {
+                        "estado":  "Ceara",
+                        "sigla_uf":  "CE",
+                        "investimento_total":  1099140000,
+                        "media_acesso_agua":  80.7,
+                        "media_cobertura_esgoto":  51.9
+                    },
+                    {
+                        "estado":  "Distrito Federal",
+                        "sigla_uf":  "DF",
+                        "investimento_total":  1180040000,
+                        "media_acesso_agua":  78.7,
+                        "media_cobertura_esgoto":  56.9
+                    },
+                    {
+                        "estado":  "Espirito Santo",
+                        "sigla_uf":  "ES",
+                        "investimento_total":  1487940000,
+                        "media_acesso_agua":  80.2,
+                        "media_cobertura_esgoto":  56.4
+                    },
+                    {
+                        "estado":  "Goias",
+                        "sigla_uf":  "GO",
+                        "investimento_total":  1682340000,
+                        "media_acesso_agua":  81.8,
+                        "media_cobertura_esgoto":  54.1
+                    },
+                    {
+                        "estado":  "Maranhao",
+                        "sigla_uf":  "MA",
+                        "investimento_total":  1721160000,
+                        "media_acesso_agua":  79.8,
+                        "media_cobertura_esgoto":  55.4
+                    },
+                    {
+                        "estado":  "Mato Grosso",
+                        "sigla_uf":  "MT",
+                        "investimento_total":  1724250000,
+                        "media_acesso_agua":  77.8,
+                        "media_cobertura_esgoto":  54.9
+                    },
+                    {
+                        "estado":  "Mato Grosso do Sul",
+                        "sigla_uf":  "MS",
+                        "investimento_total":  285540000,
+                        "media_acesso_agua":  82.8,
+                        "media_cobertura_esgoto":  54.4
+                    },
+                    {
+                        "estado":  "Minas Gerais",
+                        "sigla_uf":  "MG",
+                        "investimento_total":  299940000,
+                        "media_acesso_agua":  80.9,
+                        "media_cobertura_esgoto":  53.9
+                    },
+                    {
+                        "estado":  "Para",
+                        "sigla_uf":  "PA",
+                        "investimento_total":  450700000,
+                        "media_acesso_agua":  79,
+                        "media_cobertura_esgoto":  51.2
+                    },
+                    {
+                        "estado":  "Paraiba",
+                        "sigla_uf":  "PB",
+                        "investimento_total":  637050000,
+                        "media_acesso_agua":  80.4,
+                        "media_cobertura_esgoto":  52.9
+                    },
+                    {
+                        "estado":  "Parana",
+                        "sigla_uf":  "PR",
+                        "investimento_total":  883140000,
+                        "media_acesso_agua":  82.2,
+                        "media_cobertura_esgoto":  52.4
+                    },
+                    {
+                        "estado":  "Pernambuco",
+                        "sigla_uf":  "PE",
+                        "investimento_total":  1077540000,
+                        "media_acesso_agua":  80.2,
+                        "media_cobertura_esgoto":  51.9
+                    },
+                    {
+                        "estado":  "Piaui",
+                        "sigla_uf":  "PI",
+                        "investimento_total":  1174910000,
+                        "media_acesso_agua":  78.2,
+                        "media_cobertura_esgoto":  54.7
+                    },
+                    {
+                        "estado":  "Rio de Janeiro",
+                        "sigla_uf":  "RJ",
+                        "investimento_total":  1335180000,
+                        "media_acesso_agua":  83.1,
+                        "media_cobertura_esgoto":  56.4
+                    },
+                    {
+                        "estado":  "Rio Grande do Norte",
+                        "sigla_uf":  "RN",
+                        "investimento_total":  1660740000,
+                        "media_acesso_agua":  81.3,
+                        "media_cobertura_esgoto":  55.9
+                    },
+                    {
+                        "estado":  "Rio Grande do Sul",
+                        "sigla_uf":  "RS",
+                        "investimento_total":  1701360000,
+                        "media_acesso_agua":  79.3,
+                        "media_cobertura_esgoto":  55.4
+                    },
+                    {
+                        "estado":  "Rondonia",
+                        "sigla_uf":  "RO",
+                        "investimento_total":  2049540000,
+                        "media_acesso_agua":  80.9,
+                        "media_cobertura_esgoto":  54.9
+                    },
+                    {
+                        "estado":  "Roraima",
+                        "sigla_uf":  "RR",
+                        "investimento_total":  443940000,
+                        "media_acesso_agua":  82.4,
+                        "media_cobertura_esgoto":  52.2
+                    },
+                    {
+                        "estado":  "Santa Catarina",
+                        "sigla_uf":  "SC",
+                        "investimento_total":  220540000,
+                        "media_acesso_agua":  80.5,
+                        "media_cobertura_esgoto":  53.9
+                    },
+                    {
+                        "estado":  "Sao Paulo",
+                        "sigla_uf":  "SP",
+                        "investimento_total":  472740000,
+                        "media_acesso_agua":  78.5,
+                        "media_cobertura_esgoto":  53.4
+                    },
+                    {
+                        "estado":  "Sergipe",
+                        "sigla_uf":  "SE",
+                        "investimento_total":  667140000,
+                        "media_acesso_agua":  79.8,
+                        "media_cobertura_esgoto":  52.9
+                    },
+                    {
+                        "estado":  "Tocantins",
+                        "sigla_uf":  "TO",
+                        "investimento_total":  861540000,
+                        "media_acesso_agua":  81.6,
+                        "media_cobertura_esgoto":  50.2
+                    }
+                ],
+    "distribuicao_acesso_agua":  [
+                                     {
+                                         "faixa":  "0-20%",
+                                         "quantidade":  0
+                                     },
+                                     {
+                                         "faixa":  "21-40%",
+                                         "quantidade":  0
+                                     },
+                                     {
+                                         "faixa":  "41-60%",
+                                         "quantidade":  10
+                                     },
+                                     {
+                                         "faixa":  "61-80%",
+                                         "quantidade":  152
+                                     },
+                                     {
+                                         "faixa":  "81-100%",
+                                         "quantidade":  162
+                                     }
+                                 ],
+    "municipios":  [
+                       {
+                           "municipio":  "Municipio 1-AC",
+                           "sigla_uf":  "AC",
+                           "acesso_agua":  66,
+                           "cobertura_esgoto":  26,
+                           "investimento_total":  1630000
+                       },
+                       {
+                           "municipio":  "Municipio 2-AC",
+                           "sigla_uf":  "AC",
+                           "acesso_agua":  74,
+                           "cobertura_esgoto":  32,
+                           "investimento_total":  3260000
+                       },
+                       {
+                           "municipio":  "Municipio 3-AC",
+                           "sigla_uf":  "AC",
+                           "acesso_agua":  82,
+                           "cobertura_esgoto":  38,
+                           "investimento_total":  4890000
+                       },
+                       {
+                           "municipio":  "Municipio 4-AC",
+                           "sigla_uf":  "AC",
+                           "acesso_agua":  86,
+                           "cobertura_esgoto":  44,
+                           "investimento_total":  6520000
+                       },
+                       {
+                           "municipio":  "Municipio 5-AC",
+                           "sigla_uf":  "AC",
+                           "acesso_agua":  94,
+                           "cobertura_esgoto":  45,
+                           "investimento_total":  8150000
+                       },
+                       {
+                           "municipio":  "Municipio 6-AC",
+                           "sigla_uf":  "AC",
+                           "acesso_agua":  100,
+                           "cobertura_esgoto":  51,
+                           "investimento_total":  9780000
+                       },
+                       {
+                           "municipio":  "Municipio 7-AC",
+                           "sigla_uf":  "AC",
+                           "acesso_agua":  67,
+                           "cobertura_esgoto":  57,
+                           "investimento_total":  11410000
+                       },
+                       {
+                           "municipio":  "Municipio 8-AC",
+                           "sigla_uf":  "AC",
+                           "acesso_agua":  71,
+                           "cobertura_esgoto":  63,
+                           "investimento_total":  13040000
+                       },
+                       {
+                           "municipio":  "Municipio 9-AC",
+                           "sigla_uf":  "AC",
+                           "acesso_agua":  79,
+                           "cobertura_esgoto":  69,
+                           "investimento_total":  14670000
+                       },
+                       {
+                           "municipio":  "Municipio 10-AC",
+                           "sigla_uf":  "AC",
+                           "acesso_agua":  87,
+                           "cobertura_esgoto":  70,
+                           "investimento_total":  16300000
+                       },
+                       {
+                           "municipio":  "Municipio 11-AC",
+                           "sigla_uf":  "AC",
+                           "acesso_agua":  95,
+                           "cobertura_esgoto":  76,
+                           "investimento_total":  17930000
+                       },
+                       {
+                           "municipio":  "Municipio 12-AC",
+                           "sigla_uf":  "AC",
+                           "acesso_agua":  99,
+                           "cobertura_esgoto":  82,
+                           "investimento_total":  19560000
+                       },
+                       {
+                           "municipio":  "Municipio 1-AL",
+                           "sigla_uf":  "AL",
+                           "acesso_agua":  64,
+                           "cobertura_esgoto":  86,
+                           "investimento_total":  17830000
+                       },
+                       {
+                           "municipio":  "Municipio 2-AL",
+                           "sigla_uf":  "AL",
+                           "acesso_agua":  72,
+                           "cobertura_esgoto":  26,
+                           "investimento_total":  19460000
+                       },
+                       {
+                           "municipio":  "Municipio 3-AL",
+                           "sigla_uf":  "AL",
+                           "acesso_agua":  80,
+                           "cobertura_esgoto":  32,
+                           "investimento_total":  21090000
+                       },
+                       {
+                           "municipio":  "Municipio 4-AL",
+                           "sigla_uf":  "AL",
+                           "acesso_agua":  84,
+                           "cobertura_esgoto":  38,
+                           "investimento_total":  22720000
+                       },
+                       {
+                           "municipio":  "Municipio 5-AL",
+                           "sigla_uf":  "AL",
+                           "acesso_agua":  92,
+                           "cobertura_esgoto":  39,
+                           "investimento_total":  24350000
+                       },
+                       {
+                           "municipio":  "Municipio 6-AL",
+                           "sigla_uf":  "AL",
+                           "acesso_agua":  100,
+                           "cobertura_esgoto":  45,
+                           "investimento_total":  25980000
+                       },
+                       {
+                           "municipio":  "Municipio 7-AL",
+                           "sigla_uf":  "AL",
+                           "acesso_agua":  65,
+                           "cobertura_esgoto":  51,
+                           "investimento_total":  27610000
+                       },
+                       {
+                           "municipio":  "Municipio 8-AL",
+                           "sigla_uf":  "AL",
+                           "acesso_agua":  69,
+                           "cobertura_esgoto":  57,
+                           "investimento_total":  29240000
+                       },
+                       {
+                           "municipio":  "Municipio 9-AL",
+                           "sigla_uf":  "AL",
+                           "acesso_agua":  77,
+                           "cobertura_esgoto":  63,
+                           "investimento_total":  30870000
+                       },
+                       {
+                           "municipio":  "Municipio 10-AL",
+                           "sigla_uf":  "AL",
+                           "acesso_agua":  85,
+                           "cobertura_esgoto":  64,
+                           "investimento_total":  32500000
+                       },
+                       {
+                           "municipio":  "Municipio 11-AL",
+                           "sigla_uf":  "AL",
+                           "acesso_agua":  93,
+                           "cobertura_esgoto":  70,
+                           "investimento_total":  34130000
+                       },
+                       {
+                           "municipio":  "Municipio 12-AL",
+                           "sigla_uf":  "AL",
+                           "acesso_agua":  97,
+                           "cobertura_esgoto":  76,
+                           "investimento_total":  35760000
+                       },
+                       {
+                           "municipio":  "Municipio 1-AP",
+                           "sigla_uf":  "AP",
+                           "acesso_agua":  62,
+                           "cobertura_esgoto":  80,
+                           "investimento_total":  34030000
+                       },
+                       {
+                           "municipio":  "Municipio 2-AP",
+                           "sigla_uf":  "AP",
+                           "acesso_agua":  70,
+                           "cobertura_esgoto":  86,
+                           "investimento_total":  35660000
+                       },
+                       {
+                           "municipio":  "Municipio 3-AP",
+                           "sigla_uf":  "AP",
+                           "acesso_agua":  78,
+                           "cobertura_esgoto":  26,
+                           "investimento_total":  37290000
+                       },
+                       {
+                           "municipio":  "Municipio 4-AP",
+                           "sigla_uf":  "AP",
+                           "acesso_agua":  82,
+                           "cobertura_esgoto":  32,
+                           "investimento_total":  38920000
+                       },
+                       {
+                           "municipio":  "Municipio 5-AP",
+                           "sigla_uf":  "AP",
+                           "acesso_agua":  90,
+                           "cobertura_esgoto":  33,
+                           "investimento_total":  40550000
+                       },
+                       {
+                           "municipio":  "Municipio 6-AP",
+                           "sigla_uf":  "AP",
+                           "acesso_agua":  98,
+                           "cobertura_esgoto":  39,
+                           "investimento_total":  42180000
+                       },
+                       {
+                           "municipio":  "Municipio 7-AP",
+                           "sigla_uf":  "AP",
+                           "acesso_agua":  63,
+                           "cobertura_esgoto":  45,
+                           "investimento_total":  43810000
+                       },
+                       {
+                           "municipio":  "Municipio 8-AP",
+                           "sigla_uf":  "AP",
+                           "acesso_agua":  67,
+                           "cobertura_esgoto":  51,
+                           "investimento_total":  45440000
+                       },
+                       {
+                           "municipio":  "Municipio 9-AP",
+                           "sigla_uf":  "AP",
+                           "acesso_agua":  75,
+                           "cobertura_esgoto":  57,
+                           "investimento_total":  47070000
+                       },
+                       {
+                           "municipio":  "Municipio 10-AP",
+                           "sigla_uf":  "AP",
+                           "acesso_agua":  83,
+                           "cobertura_esgoto":  58,
+                           "investimento_total":  48700000
+                       },
+                       {
+                           "municipio":  "Municipio 11-AP",
+                           "sigla_uf":  "AP",
+                           "acesso_agua":  91,
+                           "cobertura_esgoto":  64,
+                           "investimento_total":  50330000
+                       },
+                       {
+                           "municipio":  "Municipio 12-AP",
+                           "sigla_uf":  "AP",
+                           "acesso_agua":  95,
+                           "cobertura_esgoto":  70,
+                           "investimento_total":  51960000
+                       },
+                       {
+                           "municipio":  "Municipio 1-AM",
+                           "sigla_uf":  "AM",
+                           "acesso_agua":  60,
+                           "cobertura_esgoto":  74,
+                           "investimento_total":  50230000
+                       },
+                       {
+                           "municipio":  "Municipio 2-AM",
+                           "sigla_uf":  "AM",
+                           "acesso_agua":  68,
+                           "cobertura_esgoto":  80,
+                           "investimento_total":  51860000
+                       },
+                       {
+                           "municipio":  "Municipio 3-AM",
+                           "sigla_uf":  "AM",
+                           "acesso_agua":  76,
+                           "cobertura_esgoto":  86,
+                           "investimento_total":  53490000
+                       },
+                       {
+                           "municipio":  "Municipio 4-AM",
+                           "sigla_uf":  "AM",
+                           "acesso_agua":  80,
+                           "cobertura_esgoto":  26,
+                           "investimento_total":  55120000
+                       },
+                       {
+                           "municipio":  "Municipio 5-AM",
+                           "sigla_uf":  "AM",
+                           "acesso_agua":  88,
+                           "cobertura_esgoto":  27,
+                           "investimento_total":  0
+                       },
+                       {
+                           "municipio":  "Municipio 6-AM",
+                           "sigla_uf":  "AM",
+                           "acesso_agua":  96,
+                           "cobertura_esgoto":  33,
+                           "investimento_total":  58380000
+                       },
+                       {
+                           "municipio":  "Municipio 7-AM",
+                           "sigla_uf":  "AM",
+                           "acesso_agua":  61,
+                           "cobertura_esgoto":  39,
+                           "investimento_total":  60010000
+                       },
+                       {
+                           "municipio":  "Municipio 8-AM",
+                           "sigla_uf":  "AM",
+                           "acesso_agua":  65,
+                           "cobertura_esgoto":  45,
+                           "investimento_total":  61640000
+                       },
+                       {
+                           "municipio":  "Municipio 9-AM",
+                           "sigla_uf":  "AM",
+                           "acesso_agua":  73,
+                           "cobertura_esgoto":  51,
+                           "investimento_total":  63270000
+                       },
+                       {
+                           "municipio":  "Municipio 10-AM",
+                           "sigla_uf":  "AM",
+                           "acesso_agua":  81,
+                           "cobertura_esgoto":  52,
+                           "investimento_total":  64900000
+                       },
+                       {
+                           "municipio":  "Municipio 11-AM",
+                           "sigla_uf":  "AM",
+                           "acesso_agua":  89,
+                           "cobertura_esgoto":  58,
+                           "investimento_total":  66530000
+                       },
+                       {
+                           "municipio":  "Municipio 12-AM",
+                           "sigla_uf":  "AM",
+                           "acesso_agua":  93,
+                           "cobertura_esgoto":  64,
+                           "investimento_total":  68160000
+                       },
+                       {
+                           "municipio":  "Municipio 1-BA",
+                           "sigla_uf":  "BA",
+                           "acesso_agua":  100,
+                           "cobertura_esgoto":  68,
+                           "investimento_total":  66430000
+                       },
+                       {
+                           "municipio":  "Municipio 2-BA",
+                           "sigla_uf":  "BA",
+                           "acesso_agua":  66,
+                           "cobertura_esgoto":  74,
+                           "investimento_total":  68060000
+                       },
+                       {
+                           "municipio":  "Municipio 3-BA",
+                           "sigla_uf":  "BA",
+                           "acesso_agua":  74,
+                           "cobertura_esgoto":  80,
+                           "investimento_total":  69690000
+                       },
+                       {
+                           "municipio":  "Municipio 4-BA",
+                           "sigla_uf":  "BA",
+                           "acesso_agua":  78,
+                           "cobertura_esgoto":  86,
+                           "investimento_total":  71320000
+                       },
+                       {
+                           "municipio":  "Municipio 5-BA",
+                           "sigla_uf":  "BA",
+                           "acesso_agua":  86,
+                           "cobertura_esgoto":  0,
+                           "investimento_total":  72950000
+                       },
+                       {
+                           "municipio":  "Municipio 6-BA",
+                           "sigla_uf":  "BA",
+                           "acesso_agua":  94,
+                           "cobertura_esgoto":  27,
+                           "investimento_total":  74580000
+                       },
+                       {
+                           "municipio":  "Municipio 7-BA",
+                           "sigla_uf":  "BA",
+                           "acesso_agua":  100,
+                           "cobertura_esgoto":  33,
+                           "investimento_total":  76210000
+                       },
+                       {
+                           "municipio":  "Municipio 8-BA",
+                           "sigla_uf":  "BA",
+                           "acesso_agua":  63,
+                           "cobertura_esgoto":  39,
+                           "investimento_total":  77840000
+                       },
+                       {
+                           "municipio":  "Municipio 9-BA",
+                           "sigla_uf":  "BA",
+                           "acesso_agua":  71,
+                           "cobertura_esgoto":  45,
+                           "investimento_total":  0
+                       },
+                       {
+                           "municipio":  "Municipio 10-BA",
+                           "sigla_uf":  "BA",
+                           "acesso_agua":  79,
+                           "cobertura_esgoto":  46,
+                           "investimento_total":  81100000
+                       },
+                       {
+                           "municipio":  "Municipio 11-BA",
+                           "sigla_uf":  "BA",
+                           "acesso_agua":  87,
+                           "cobertura_esgoto":  52,
+                           "investimento_total":  82730000
+                       },
+                       {
+                           "municipio":  "Municipio 12-BA",
+                           "sigla_uf":  "BA",
+                           "acesso_agua":  91,
+                           "cobertura_esgoto":  58,
+                           "investimento_total":  84360000
+                       },
+                       {
+                           "municipio":  "Municipio 1-CE",
+                           "sigla_uf":  "CE",
+                           "acesso_agua":  99,
+                           "cobertura_esgoto":  62,
+                           "investimento_total":  82630000
+                       },
+                       {
+                           "municipio":  "Municipio 2-CE",
+                           "sigla_uf":  "CE",
+                           "acesso_agua":  64,
+                           "cobertura_esgoto":  68,
+                           "investimento_total":  84260000
+                       },
+                       {
+                           "municipio":  "Municipio 3-CE",
+                           "sigla_uf":  "CE",
+                           "acesso_agua":  72,
+                           "cobertura_esgoto":  74,
+                           "investimento_total":  85890000
+                       },
+                       {
+                           "municipio":  "Municipio 4-CE",
+                           "sigla_uf":  "CE",
+                           "acesso_agua":  76,
+                           "cobertura_esgoto":  80,
+                           "investimento_total":  87520000
+                       },
+                       {
+                           "municipio":  "Municipio 5-CE",
+                           "sigla_uf":  "CE",
+                           "acesso_agua":  84,
+                           "cobertura_esgoto":  81,
+                           "investimento_total":  89150000
+                       },
+                       {
+                           "municipio":  "Municipio 6-CE",
+                           "sigla_uf":  "CE",
+                           "acesso_agua":  92,
+                           "cobertura_esgoto":  21,
+                           "investimento_total":  90780000
+                       },
+                       {
+                           "municipio":  "Municipio 7-CE",
+                           "sigla_uf":  "CE",
+                           "acesso_agua":  100,
+                           "cobertura_esgoto":  27,
+                           "investimento_total":  92410000
+                       },
+                       {
+                           "municipio":  "Municipio 8-CE",
+                           "sigla_uf":  "CE",
+                           "acesso_agua":  61,
+                           "cobertura_esgoto":  33,
+                           "investimento_total":  94040000
+                       },
+                       {
+                           "municipio":  "Municipio 9-CE",
+                           "sigla_uf":  "CE",
+                           "acesso_agua":  69,
+                           "cobertura_esgoto":  39,
+                           "investimento_total":  95670000
+                       },
+                       {
+                           "municipio":  "Municipio 10-CE",
+                           "sigla_uf":  "CE",
+                           "acesso_agua":  77,
+                           "cobertura_esgoto":  40,
+                           "investimento_total":  97300000
+                       },
+                       {
+                           "municipio":  "Municipio 11-CE",
+                           "sigla_uf":  "CE",
+                           "acesso_agua":  85,
+                           "cobertura_esgoto":  46,
+                           "investimento_total":  98930000
+                       },
+                       {
+                           "municipio":  "Municipio 12-CE",
+                           "sigla_uf":  "CE",
+                           "acesso_agua":  89,
+                           "cobertura_esgoto":  52,
+                           "investimento_total":  100560000
+                       },
+                       {
+                           "municipio":  "Municipio 1-DF",
+                           "sigla_uf":  "DF",
+                           "acesso_agua":  97,
+                           "cobertura_esgoto":  56,
+                           "investimento_total":  98830000
+                       },
+                       {
+                           "municipio":  "Municipio 2-DF",
+                           "sigla_uf":  "DF",
+                           "acesso_agua":  62,
+                           "cobertura_esgoto":  62,
+                           "investimento_total":  100460000
+                       },
+                       {
+                           "municipio":  "Municipio 3-DF",
+                           "sigla_uf":  "DF",
+                           "acesso_agua":  70,
+                           "cobertura_esgoto":  68,
+                           "investimento_total":  102090000
+                       },
+                       {
+                           "municipio":  "Municipio 4-DF",
+                           "sigla_uf":  "DF",
+                           "acesso_agua":  74,
+                           "cobertura_esgoto":  74,
+                           "investimento_total":  103720000
+                       },
+                       {
+                           "municipio":  "Municipio 5-DF",
+                           "sigla_uf":  "DF",
+                           "acesso_agua":  82,
+                           "cobertura_esgoto":  75,
+                           "investimento_total":  105350000
+                       },
+                       {
+                           "municipio":  "Municipio 6-DF",
+                           "sigla_uf":  "DF",
+                           "acesso_agua":  90,
+                           "cobertura_esgoto":  81,
+                           "investimento_total":  106980000
+                       },
+                       {
+                           "municipio":  "Municipio 7-DF",
+                           "sigla_uf":  "DF",
+                           "acesso_agua":  98,
+                           "cobertura_esgoto":  87,
+                           "investimento_total":  108610000
+                       },
+                       {
+                           "municipio":  "Municipio 8-DF",
+                           "sigla_uf":  "DF",
+                           "acesso_agua":  59,
+                           "cobertura_esgoto":  27,
+                           "investimento_total":  110240000
+                       },
+                       {
+                           "municipio":  "Municipio 9-DF",
+                           "sigla_uf":  "DF",
+                           "acesso_agua":  67,
+                           "cobertura_esgoto":  33,
+                           "investimento_total":  111870000
+                       },
+                       {
+                           "municipio":  "Municipio 10-DF",
+                           "sigla_uf":  "DF",
+                           "acesso_agua":  75,
+                           "cobertura_esgoto":  34,
+                           "investimento_total":  0
+                       },
+                       {
+                           "municipio":  "Municipio 11-DF",
+                           "sigla_uf":  "DF",
+                           "acesso_agua":  83,
+                           "cobertura_esgoto":  40,
+                           "investimento_total":  115130000
+                       },
+                       {
+                           "municipio":  "Municipio 12-DF",
+                           "sigla_uf":  "DF",
+                           "acesso_agua":  87,
+                           "cobertura_esgoto":  46,
+                           "investimento_total":  116760000
+                       },
+                       {
+                           "municipio":  "Municipio 1-ES",
+                           "sigla_uf":  "ES",
+                           "acesso_agua":  95,
+                           "cobertura_esgoto":  50,
+                           "investimento_total":  115030000
+                       },
+                       {
+                           "municipio":  "Municipio 2-ES",
+                           "sigla_uf":  "ES",
+                           "acesso_agua":  60,
+                           "cobertura_esgoto":  56,
+                           "investimento_total":  116660000
+                       },
+                       {
+                           "municipio":  "Municipio 3-ES",
+                           "sigla_uf":  "ES",
+                           "acesso_agua":  68,
+                           "cobertura_esgoto":  62,
+                           "investimento_total":  118290000
+                       },
+                       {
+                           "municipio":  "Municipio 4-ES",
+                           "sigla_uf":  "ES",
+                           "acesso_agua":  72,
+                           "cobertura_esgoto":  68,
+                           "investimento_total":  119920000
+                       },
+                       {
+                           "municipio":  "Municipio 5-ES",
+                           "sigla_uf":  "ES",
+                           "acesso_agua":  80,
+                           "cobertura_esgoto":  69,
+                           "investimento_total":  121550000
+                       },
+                       {
+                           "municipio":  "Municipio 6-ES",
+                           "sigla_uf":  "ES",
+                           "acesso_agua":  88,
+                           "cobertura_esgoto":  75,
+                           "investimento_total":  123180000
+                       },
+                       {
+                           "municipio":  "Municipio 7-ES",
+                           "sigla_uf":  "ES",
+                           "acesso_agua":  96,
+                           "cobertura_esgoto":  81,
+                           "investimento_total":  124810000
+                       },
+                       {
+                           "municipio":  "Municipio 8-ES",
+                           "sigla_uf":  "ES",
+                           "acesso_agua":  100,
+                           "cobertura_esgoto":  87,
+                           "investimento_total":  126440000
+                       },
+                       {
+                           "municipio":  "Municipio 9-ES",
+                           "sigla_uf":  "ES",
+                           "acesso_agua":  65,
+                           "cobertura_esgoto":  27,
+                           "investimento_total":  128070000
+                       },
+                       {
+                           "municipio":  "Municipio 10-ES",
+                           "sigla_uf":  "ES",
+                           "acesso_agua":  73,
+                           "cobertura_esgoto":  28,
+                           "investimento_total":  129700000
+                       },
+                       {
+                           "municipio":  "Municipio 11-ES",
+                           "sigla_uf":  "ES",
+                           "acesso_agua":  81,
+                           "cobertura_esgoto":  34,
+                           "investimento_total":  131330000
+                       },
+                       {
+                           "municipio":  "Municipio 12-ES",
+                           "sigla_uf":  "ES",
+                           "acesso_agua":  85,
+                           "cobertura_esgoto":  40,
+                           "investimento_total":  132960000
+                       },
+                       {
+                           "municipio":  "Municipio 1-GO",
+                           "sigla_uf":  "GO",
+                           "acesso_agua":  93,
+                           "cobertura_esgoto":  44,
+                           "investimento_total":  131230000
+                       },
+                       {
+                           "municipio":  "Municipio 2-GO",
+                           "sigla_uf":  "GO",
+                           "acesso_agua":  100,
+                           "cobertura_esgoto":  50,
+                           "investimento_total":  132860000
+                       },
+                       {
+                           "municipio":  "Municipio 3-GO",
+                           "sigla_uf":  "GO",
+                           "acesso_agua":  66,
+                           "cobertura_esgoto":  56,
+                           "investimento_total":  134490000
+                       },
+                       {
+                           "municipio":  "Municipio 4-GO",
+                           "sigla_uf":  "GO",
+                           "acesso_agua":  70,
+                           "cobertura_esgoto":  62,
+                           "investimento_total":  136120000
+                       },
+                       {
+                           "municipio":  "Municipio 5-GO",
+                           "sigla_uf":  "GO",
+                           "acesso_agua":  78,
+                           "cobertura_esgoto":  63,
+                           "investimento_total":  137750000
+                       },
+                       {
+                           "municipio":  "Municipio 6-GO",
+                           "sigla_uf":  "GO",
+                           "acesso_agua":  86,
+                           "cobertura_esgoto":  69,
+                           "investimento_total":  139380000
+                       },
+                       {
+                           "municipio":  "Municipio 7-GO",
+                           "sigla_uf":  "GO",
+                           "acesso_agua":  94,
+                           "cobertura_esgoto":  75,
+                           "investimento_total":  141010000
+                       },
+                       {
+                           "municipio":  "Municipio 8-GO",
+                           "sigla_uf":  "GO",
+                           "acesso_agua":  98,
+                           "cobertura_esgoto":  81,
+                           "investimento_total":  142640000
+                       },
+                       {
+                           "municipio":  "Municipio 9-GO",
+                           "sigla_uf":  "GO",
+                           "acesso_agua":  63,
+                           "cobertura_esgoto":  87,
+                           "investimento_total":  144270000
+                       },
+                       {
+                           "municipio":  "Municipio 10-GO",
+                           "sigla_uf":  "GO",
+                           "acesso_agua":  71,
+                           "cobertura_esgoto":  0,
+                           "investimento_total":  145900000
+                       },
+                       {
+                           "municipio":  "Municipio 11-GO",
+                           "sigla_uf":  "GO",
+                           "acesso_agua":  79,
+                           "cobertura_esgoto":  28,
+                           "investimento_total":  147530000
+                       },
+                       {
+                           "municipio":  "Municipio 12-GO",
+                           "sigla_uf":  "GO",
+                           "acesso_agua":  83,
+                           "cobertura_esgoto":  34,
+                           "investimento_total":  149160000
+                       },
+                       {
+                           "municipio":  "Municipio 1-MA",
+                           "sigla_uf":  "MA",
+                           "acesso_agua":  91,
+                           "cobertura_esgoto":  38,
+                           "investimento_total":  147430000
+                       },
+                       {
+                           "municipio":  "Municipio 2-MA",
+                           "sigla_uf":  "MA",
+                           "acesso_agua":  99,
+                           "cobertura_esgoto":  44,
+                           "investimento_total":  149060000
+                       },
+                       {
+                           "municipio":  "Municipio 3-MA",
+                           "sigla_uf":  "MA",
+                           "acesso_agua":  64,
+                           "cobertura_esgoto":  50,
+                           "investimento_total":  150690000
+                       },
+                       {
+                           "municipio":  "Municipio 4-MA",
+                           "sigla_uf":  "MA",
+                           "acesso_agua":  68,
+                           "cobertura_esgoto":  56,
+                           "investimento_total":  152320000
+                       },
+                       {
+                           "municipio":  "Municipio 5-MA",
+                           "sigla_uf":  "MA",
+                           "acesso_agua":  76,
+                           "cobertura_esgoto":  57,
+                           "investimento_total":  153950000
+                       },
+                       {
+                           "municipio":  "Municipio 6-MA",
+                           "sigla_uf":  "MA",
+                           "acesso_agua":  84,
+                           "cobertura_esgoto":  63,
+                           "investimento_total":  0
+                       },
+                       {
+                           "municipio":  "Municipio 7-MA",
+                           "sigla_uf":  "MA",
+                           "acesso_agua":  92,
+                           "cobertura_esgoto":  69,
+                           "investimento_total":  157210000
+                       },
+                       {
+                           "municipio":  "Municipio 8-MA",
+                           "sigla_uf":  "MA",
+                           "acesso_agua":  96,
+                           "cobertura_esgoto":  75,
+                           "investimento_total":  158840000
+                       },
+                       {
+                           "municipio":  "Municipio 9-MA",
+                           "sigla_uf":  "MA",
+                           "acesso_agua":  61,
+                           "cobertura_esgoto":  81,
+                           "investimento_total":  160470000
+                       },
+                       {
+                           "municipio":  "Municipio 10-MA",
+                           "sigla_uf":  "MA",
+                           "acesso_agua":  69,
+                           "cobertura_esgoto":  82,
+                           "investimento_total":  162100000
+                       },
+                       {
+                           "municipio":  "Municipio 11-MA",
+                           "sigla_uf":  "MA",
+                           "acesso_agua":  77,
+                           "cobertura_esgoto":  22,
+                           "investimento_total":  163730000
+                       },
+                       {
+                           "municipio":  "Municipio 12-MA",
+                           "sigla_uf":  "MA",
+                           "acesso_agua":  81,
+                           "cobertura_esgoto":  28,
+                           "investimento_total":  165360000
+                       },
+                       {
+                           "municipio":  "Municipio 1-MT",
+                           "sigla_uf":  "MT",
+                           "acesso_agua":  89,
+                           "cobertura_esgoto":  32,
+                           "investimento_total":  163630000
+                       },
+                       {
+                           "municipio":  "Municipio 2-MT",
+                           "sigla_uf":  "MT",
+                           "acesso_agua":  97,
+                           "cobertura_esgoto":  38,
+                           "investimento_total":  165260000
+                       },
+                       {
+                           "municipio":  "Municipio 3-MT",
+                           "sigla_uf":  "MT",
+                           "acesso_agua":  62,
+                           "cobertura_esgoto":  44,
+                           "investimento_total":  0
+                       },
+                       {
+                           "municipio":  "Municipio 4-MT",
+                           "sigla_uf":  "MT",
+                           "acesso_agua":  66,
+                           "cobertura_esgoto":  50,
+                           "investimento_total":  168520000
+                       },
+                       {
+                           "municipio":  "Municipio 5-MT",
+                           "sigla_uf":  "MT",
+                           "acesso_agua":  74,
+                           "cobertura_esgoto":  51,
+                           "investimento_total":  170150000
+                       },
+                       {
+                           "municipio":  "Municipio 6-MT",
+                           "sigla_uf":  "MT",
+                           "acesso_agua":  82,
+                           "cobertura_esgoto":  57,
+                           "investimento_total":  171780000
+                       },
+                       {
+                           "municipio":  "Municipio 7-MT",
+                           "sigla_uf":  "MT",
+                           "acesso_agua":  90,
+                           "cobertura_esgoto":  63,
+                           "investimento_total":  173410000
+                       },
+                       {
+                           "municipio":  "Municipio 8-MT",
+                           "sigla_uf":  "MT",
+                           "acesso_agua":  94,
+                           "cobertura_esgoto":  69,
+                           "investimento_total":  175040000
+                       },
+                       {
+                           "municipio":  "Municipio 9-MT",
+                           "sigla_uf":  "MT",
+                           "acesso_agua":  59,
+                           "cobertura_esgoto":  75,
+                           "investimento_total":  176670000
+                       },
+                       {
+                           "municipio":  "Municipio 10-MT",
+                           "sigla_uf":  "MT",
+                           "acesso_agua":  67,
+                           "cobertura_esgoto":  76,
+                           "investimento_total":  178300000
+                       },
+                       {
+                           "municipio":  "Municipio 11-MT",
+                           "sigla_uf":  "MT",
+                           "acesso_agua":  75,
+                           "cobertura_esgoto":  82,
+                           "investimento_total":  179930000
+                       },
+                       {
+                           "municipio":  "Municipio 12-MT",
+                           "sigla_uf":  "MT",
+                           "acesso_agua":  79,
+                           "cobertura_esgoto":  22,
+                           "investimento_total":  1560000
+                       },
+                       {
+                           "municipio":  "Municipio 1-MS",
+                           "sigla_uf":  "MS",
+                           "acesso_agua":  87,
+                           "cobertura_esgoto":  26,
+                           "investimento_total":  179830000
+                       },
+                       {
+                           "municipio":  "Municipio 2-MS",
+                           "sigla_uf":  "MS",
+                           "acesso_agua":  95,
+                           "cobertura_esgoto":  32,
+                           "investimento_total":  1460000
+                       },
+                       {
+                           "municipio":  "Municipio 3-MS",
+                           "sigla_uf":  "MS",
+                           "acesso_agua":  100,
+                           "cobertura_esgoto":  38,
+                           "investimento_total":  3090000
+                       },
+                       {
+                           "municipio":  "Municipio 4-MS",
+                           "sigla_uf":  "MS",
+                           "acesso_agua":  64,
+                           "cobertura_esgoto":  44,
+                           "investimento_total":  4720000
+                       },
+                       {
+                           "municipio":  "Municipio 5-MS",
+                           "sigla_uf":  "MS",
+                           "acesso_agua":  72,
+                           "cobertura_esgoto":  45,
+                           "investimento_total":  6350000
+                       },
+                       {
+                           "municipio":  "Municipio 6-MS",
+                           "sigla_uf":  "MS",
+                           "acesso_agua":  80,
+                           "cobertura_esgoto":  51,
+                           "investimento_total":  7980000
+                       },
+                       {
+                           "municipio":  "Municipio 7-MS",
+                           "sigla_uf":  "MS",
+                           "acesso_agua":  88,
+                           "cobertura_esgoto":  57,
+                           "investimento_total":  9610000
+                       },
+                       {
+                           "municipio":  "Municipio 8-MS",
+                           "sigla_uf":  "MS",
+                           "acesso_agua":  92,
+                           "cobertura_esgoto":  63,
+                           "investimento_total":  11240000
+                       },
+                       {
+                           "municipio":  "Municipio 9-MS",
+                           "sigla_uf":  "MS",
+                           "acesso_agua":  100,
+                           "cobertura_esgoto":  69,
+                           "investimento_total":  12870000
+                       },
+                       {
+                           "municipio":  "Municipio 10-MS",
+                           "sigla_uf":  "MS",
+                           "acesso_agua":  65,
+                           "cobertura_esgoto":  70,
+                           "investimento_total":  14500000
+                       },
+                       {
+                           "municipio":  "Municipio 11-MS",
+                           "sigla_uf":  "MS",
+                           "acesso_agua":  73,
+                           "cobertura_esgoto":  76,
+                           "investimento_total":  16130000
+                       },
+                       {
+                           "municipio":  "Municipio 12-MS",
+                           "sigla_uf":  "MS",
+                           "acesso_agua":  77,
+                           "cobertura_esgoto":  82,
+                           "investimento_total":  17760000
+                       },
+                       {
+                           "municipio":  "Municipio 1-MG",
+                           "sigla_uf":  "MG",
+                           "acesso_agua":  85,
+                           "cobertura_esgoto":  86,
+                           "investimento_total":  16030000
+                       },
+                       {
+                           "municipio":  "Municipio 2-MG",
+                           "sigla_uf":  "MG",
+                           "acesso_agua":  93,
+                           "cobertura_esgoto":  26,
+                           "investimento_total":  17660000
+                       },
+                       {
+                           "municipio":  "Municipio 3-MG",
+                           "sigla_uf":  "MG",
+                           "acesso_agua":  100,
+                           "cobertura_esgoto":  32,
+                           "investimento_total":  19290000
+                       },
+                       {
+                           "municipio":  "Municipio 4-MG",
+                           "sigla_uf":  "MG",
+                           "acesso_agua":  62,
+                           "cobertura_esgoto":  38,
+                           "investimento_total":  20920000
+                       },
+                       {
+                           "municipio":  "Municipio 5-MG",
+                           "sigla_uf":  "MG",
+                           "acesso_agua":  70,
+                           "cobertura_esgoto":  39,
+                           "investimento_total":  22550000
+                       },
+                       {
+                           "municipio":  "Municipio 6-MG",
+                           "sigla_uf":  "MG",
+                           "acesso_agua":  78,
+                           "cobertura_esgoto":  45,
+                           "investimento_total":  24180000
+                       },
+                       {
+                           "municipio":  "Municipio 7-MG",
+                           "sigla_uf":  "MG",
+                           "acesso_agua":  86,
+                           "cobertura_esgoto":  51,
+                           "investimento_total":  25810000
+                       },
+                       {
+                           "municipio":  "Municipio 8-MG",
+                           "sigla_uf":  "MG",
+                           "acesso_agua":  90,
+                           "cobertura_esgoto":  57,
+                           "investimento_total":  27440000
+                       },
+                       {
+                           "municipio":  "Municipio 9-MG",
+                           "sigla_uf":  "MG",
+                           "acesso_agua":  98,
+                           "cobertura_esgoto":  63,
+                           "investimento_total":  29070000
+                       },
+                       {
+                           "municipio":  "Municipio 10-MG",
+                           "sigla_uf":  "MG",
+                           "acesso_agua":  63,
+                           "cobertura_esgoto":  64,
+                           "investimento_total":  30700000
+                       },
+                       {
+                           "municipio":  "Municipio 11-MG",
+                           "sigla_uf":  "MG",
+                           "acesso_agua":  71,
+                           "cobertura_esgoto":  70,
+                           "investimento_total":  32330000
+                       },
+                       {
+                           "municipio":  "Municipio 12-MG",
+                           "sigla_uf":  "MG",
+                           "acesso_agua":  75,
+                           "cobertura_esgoto":  76,
+                           "investimento_total":  33960000
+                       },
+                       {
+                           "municipio":  "Municipio 1-PA",
+                           "sigla_uf":  "PA",
+                           "acesso_agua":  83,
+                           "cobertura_esgoto":  80,
+                           "investimento_total":  32230000
+                       },
+                       {
+                           "municipio":  "Municipio 2-PA",
+                           "sigla_uf":  "PA",
+                           "acesso_agua":  91,
+                           "cobertura_esgoto":  86,
+                           "investimento_total":  33860000
+                       },
+                       {
+                           "municipio":  "Municipio 3-PA",
+                           "sigla_uf":  "PA",
+                           "acesso_agua":  99,
+                           "cobertura_esgoto":  0,
+                           "investimento_total":  35490000
+                       },
+                       {
+                           "municipio":  "Municipio 4-PA",
+                           "sigla_uf":  "PA",
+                           "acesso_agua":  60,
+                           "cobertura_esgoto":  32,
+                           "investimento_total":  37120000
+                       },
+                       {
+                           "municipio":  "Municipio 5-PA",
+                           "sigla_uf":  "PA",
+                           "acesso_agua":  68,
+                           "cobertura_esgoto":  33,
+                           "investimento_total":  38750000
+                       },
+                       {
+                           "municipio":  "Municipio 6-PA",
+                           "sigla_uf":  "PA",
+                           "acesso_agua":  76,
+                           "cobertura_esgoto":  39,
+                           "investimento_total":  40380000
+                       },
+                       {
+                           "municipio":  "Municipio 7-PA",
+                           "sigla_uf":  "PA",
+                           "acesso_agua":  84,
+                           "cobertura_esgoto":  45,
+                           "investimento_total":  42010000
+                       },
+                       {
+                           "municipio":  "Municipio 8-PA",
+                           "sigla_uf":  "PA",
+                           "acesso_agua":  88,
+                           "cobertura_esgoto":  51,
+                           "investimento_total":  0
+                       },
+                       {
+                           "municipio":  "Municipio 9-PA",
+                           "sigla_uf":  "PA",
+                           "acesso_agua":  96,
+                           "cobertura_esgoto":  57,
+                           "investimento_total":  45270000
+                       },
+                       {
+                           "municipio":  "Municipio 10-PA",
+                           "sigla_uf":  "PA",
+                           "acesso_agua":  61,
+                           "cobertura_esgoto":  58,
+                           "investimento_total":  46900000
+                       },
+                       {
+                           "municipio":  "Municipio 11-PA",
+                           "sigla_uf":  "PA",
+                           "acesso_agua":  69,
+                           "cobertura_esgoto":  64,
+                           "investimento_total":  48530000
+                       },
+                       {
+                           "municipio":  "Municipio 12-PA",
+                           "sigla_uf":  "PA",
+                           "acesso_agua":  73,
+                           "cobertura_esgoto":  70,
+                           "investimento_total":  50160000
+                       },
+                       {
+                           "municipio":  "Municipio 1-PB",
+                           "sigla_uf":  "PB",
+                           "acesso_agua":  81,
+                           "cobertura_esgoto":  74,
+                           "investimento_total":  48430000
+                       },
+                       {
+                           "municipio":  "Municipio 2-PB",
+                           "sigla_uf":  "PB",
+                           "acesso_agua":  89,
+                           "cobertura_esgoto":  80,
+                           "investimento_total":  50060000
+                       },
+                       {
+                           "municipio":  "Municipio 3-PB",
+                           "sigla_uf":  "PB",
+                           "acesso_agua":  97,
+                           "cobertura_esgoto":  86,
+                           "investimento_total":  0
+                       },
+                       {
+                           "municipio":  "Municipio 4-PB",
+                           "sigla_uf":  "PB",
+                           "acesso_agua":  58,
+                           "cobertura_esgoto":  26,
+                           "investimento_total":  53320000
+                       },
+                       {
+                           "municipio":  "Municipio 5-PB",
+                           "sigla_uf":  "PB",
+                           "acesso_agua":  66,
+                           "cobertura_esgoto":  27,
+                           "investimento_total":  54950000
+                       },
+                       {
+                           "municipio":  "Municipio 6-PB",
+                           "sigla_uf":  "PB",
+                           "acesso_agua":  74,
+                           "cobertura_esgoto":  33,
+                           "investimento_total":  56580000
+                       },
+                       {
+                           "municipio":  "Municipio 7-PB",
+                           "sigla_uf":  "PB",
+                           "acesso_agua":  82,
+                           "cobertura_esgoto":  39,
+                           "investimento_total":  58210000
+                       },
+                       {
+                           "municipio":  "Municipio 8-PB",
+                           "sigla_uf":  "PB",
+                           "acesso_agua":  86,
+                           "cobertura_esgoto":  45,
+                           "investimento_total":  59840000
+                       },
+                       {
+                           "municipio":  "Municipio 9-PB",
+                           "sigla_uf":  "PB",
+                           "acesso_agua":  94,
+                           "cobertura_esgoto":  51,
+                           "investimento_total":  61470000
+                       },
+                       {
+                           "municipio":  "Municipio 10-PB",
+                           "sigla_uf":  "PB",
+                           "acesso_agua":  100,
+                           "cobertura_esgoto":  52,
+                           "investimento_total":  63100000
+                       },
+                       {
+                           "municipio":  "Municipio 11-PB",
+                           "sigla_uf":  "PB",
+                           "acesso_agua":  67,
+                           "cobertura_esgoto":  58,
+                           "investimento_total":  64730000
+                       },
+                       {
+                           "municipio":  "Municipio 12-PB",
+                           "sigla_uf":  "PB",
+                           "acesso_agua":  71,
+                           "cobertura_esgoto":  64,
+                           "investimento_total":  66360000
+                       },
+                       {
+                           "municipio":  "Municipio 1-PR",
+                           "sigla_uf":  "PR",
+                           "acesso_agua":  79,
+                           "cobertura_esgoto":  68,
+                           "investimento_total":  64630000
+                       },
+                       {
+                           "municipio":  "Municipio 2-PR",
+                           "sigla_uf":  "PR",
+                           "acesso_agua":  87,
+                           "cobertura_esgoto":  74,
+                           "investimento_total":  66260000
+                       },
+                       {
+                           "municipio":  "Municipio 3-PR",
+                           "sigla_uf":  "PR",
+                           "acesso_agua":  95,
+                           "cobertura_esgoto":  80,
+                           "investimento_total":  67890000
+                       },
+                       {
+                           "municipio":  "Municipio 4-PR",
+                           "sigla_uf":  "PR",
+                           "acesso_agua":  99,
+                           "cobertura_esgoto":  86,
+                           "investimento_total":  69520000
+                       },
+                       {
+                           "municipio":  "Municipio 5-PR",
+                           "sigla_uf":  "PR",
+                           "acesso_agua":  64,
+                           "cobertura_esgoto":  21,
+                           "investimento_total":  71150000
+                       },
+                       {
+                           "municipio":  "Municipio 6-PR",
+                           "sigla_uf":  "PR",
+                           "acesso_agua":  72,
+                           "cobertura_esgoto":  27,
+                           "investimento_total":  72780000
+                       },
+                       {
+                           "municipio":  "Municipio 7-PR",
+                           "sigla_uf":  "PR",
+                           "acesso_agua":  80,
+                           "cobertura_esgoto":  33,
+                           "investimento_total":  74410000
+                       },
+                       {
+                           "municipio":  "Municipio 8-PR",
+                           "sigla_uf":  "PR",
+                           "acesso_agua":  84,
+                           "cobertura_esgoto":  39,
+                           "investimento_total":  76040000
+                       },
+                       {
+                           "municipio":  "Municipio 9-PR",
+                           "sigla_uf":  "PR",
+                           "acesso_agua":  92,
+                           "cobertura_esgoto":  45,
+                           "investimento_total":  77670000
+                       },
+                       {
+                           "municipio":  "Municipio 10-PR",
+                           "sigla_uf":  "PR",
+                           "acesso_agua":  100,
+                           "cobertura_esgoto":  46,
+                           "investimento_total":  79300000
+                       },
+                       {
+                           "municipio":  "Municipio 11-PR",
+                           "sigla_uf":  "PR",
+                           "acesso_agua":  65,
+                           "cobertura_esgoto":  52,
+                           "investimento_total":  80930000
+                       },
+                       {
+                           "municipio":  "Municipio 12-PR",
+                           "sigla_uf":  "PR",
+                           "acesso_agua":  69,
+                           "cobertura_esgoto":  58,
+                           "investimento_total":  82560000
+                       },
+                       {
+                           "municipio":  "Municipio 1-PE",
+                           "sigla_uf":  "PE",
+                           "acesso_agua":  77,
+                           "cobertura_esgoto":  62,
+                           "investimento_total":  80830000
+                       },
+                       {
+                           "municipio":  "Municipio 2-PE",
+                           "sigla_uf":  "PE",
+                           "acesso_agua":  85,
+                           "cobertura_esgoto":  68,
+                           "investimento_total":  82460000
+                       },
+                       {
+                           "municipio":  "Municipio 3-PE",
+                           "sigla_uf":  "PE",
+                           "acesso_agua":  93,
+                           "cobertura_esgoto":  74,
+                           "investimento_total":  84090000
+                       },
+                       {
+                           "municipio":  "Municipio 4-PE",
+                           "sigla_uf":  "PE",
+                           "acesso_agua":  97,
+                           "cobertura_esgoto":  80,
+                           "investimento_total":  85720000
+                       },
+                       {
+                           "municipio":  "Municipio 5-PE",
+                           "sigla_uf":  "PE",
+                           "acesso_agua":  62,
+                           "cobertura_esgoto":  81,
+                           "investimento_total":  87350000
+                       },
+                       {
+                           "municipio":  "Municipio 6-PE",
+                           "sigla_uf":  "PE",
+                           "acesso_agua":  70,
+                           "cobertura_esgoto":  21,
+                           "investimento_total":  88980000
+                       },
+                       {
+                           "municipio":  "Municipio 7-PE",
+                           "sigla_uf":  "PE",
+                           "acesso_agua":  78,
+                           "cobertura_esgoto":  27,
+                           "investimento_total":  90610000
+                       },
+                       {
+                           "municipio":  "Municipio 8-PE",
+                           "sigla_uf":  "PE",
+                           "acesso_agua":  82,
+                           "cobertura_esgoto":  33,
+                           "investimento_total":  92240000
+                       },
+                       {
+                           "municipio":  "Municipio 9-PE",
+                           "sigla_uf":  "PE",
+                           "acesso_agua":  90,
+                           "cobertura_esgoto":  39,
+                           "investimento_total":  93870000
+                       },
+                       {
+                           "municipio":  "Municipio 10-PE",
+                           "sigla_uf":  "PE",
+                           "acesso_agua":  98,
+                           "cobertura_esgoto":  40,
+                           "investimento_total":  95500000
+                       },
+                       {
+                           "municipio":  "Municipio 11-PE",
+                           "sigla_uf":  "PE",
+                           "acesso_agua":  63,
+                           "cobertura_esgoto":  46,
+                           "investimento_total":  97130000
+                       },
+                       {
+                           "municipio":  "Municipio 12-PE",
+                           "sigla_uf":  "PE",
+                           "acesso_agua":  67,
+                           "cobertura_esgoto":  52,
+                           "investimento_total":  98760000
+                       },
+                       {
+                           "municipio":  "Municipio 1-PI",
+                           "sigla_uf":  "PI",
+                           "acesso_agua":  75,
+                           "cobertura_esgoto":  56,
+                           "investimento_total":  0
+                       },
+                       {
+                           "municipio":  "Municipio 2-PI",
+                           "sigla_uf":  "PI",
+                           "acesso_agua":  83,
+                           "cobertura_esgoto":  62,
+                           "investimento_total":  98660000
+                       },
+                       {
+                           "municipio":  "Municipio 3-PI",
+                           "sigla_uf":  "PI",
+                           "acesso_agua":  91,
+                           "cobertura_esgoto":  68,
+                           "investimento_total":  100290000
+                       },
+                       {
+                           "municipio":  "Municipio 4-PI",
+                           "sigla_uf":  "PI",
+                           "acesso_agua":  95,
+                           "cobertura_esgoto":  74,
+                           "investimento_total":  101920000
+                       },
+                       {
+                           "municipio":  "Municipio 5-PI",
+                           "sigla_uf":  "PI",
+                           "acesso_agua":  60,
+                           "cobertura_esgoto":  75,
+                           "investimento_total":  103550000
+                       },
+                       {
+                           "municipio":  "Municipio 6-PI",
+                           "sigla_uf":  "PI",
+                           "acesso_agua":  68,
+                           "cobertura_esgoto":  81,
+                           "investimento_total":  105180000
+                       },
+                       {
+                           "municipio":  "Municipio 7-PI",
+                           "sigla_uf":  "PI",
+                           "acesso_agua":  76,
+                           "cobertura_esgoto":  87,
+                           "investimento_total":  106810000
+                       },
+                       {
+                           "municipio":  "Municipio 8-PI",
+                           "sigla_uf":  "PI",
+                           "acesso_agua":  80,
+                           "cobertura_esgoto":  0,
+                           "investimento_total":  108440000
+                       },
+                       {
+                           "municipio":  "Municipio 9-PI",
+                           "sigla_uf":  "PI",
+                           "acesso_agua":  88,
+                           "cobertura_esgoto":  33,
+                           "investimento_total":  110070000
+                       },
+                       {
+                           "municipio":  "Municipio 10-PI",
+                           "sigla_uf":  "PI",
+                           "acesso_agua":  96,
+                           "cobertura_esgoto":  34,
+                           "investimento_total":  111700000
+                       },
+                       {
+                           "municipio":  "Municipio 11-PI",
+                           "sigla_uf":  "PI",
+                           "acesso_agua":  61,
+                           "cobertura_esgoto":  40,
+                           "investimento_total":  113330000
+                       },
+                       {
+                           "municipio":  "Municipio 12-PI",
+                           "sigla_uf":  "PI",
+                           "acesso_agua":  65,
+                           "cobertura_esgoto":  46,
+                           "investimento_total":  114960000
+                       },
+                       {
+                           "municipio":  "Municipio 1-RJ",
+                           "sigla_uf":  "RJ",
+                           "acesso_agua":  73,
+                           "cobertura_esgoto":  50,
+                           "investimento_total":  113230000
+                       },
+                       {
+                           "municipio":  "Municipio 2-RJ",
+                           "sigla_uf":  "RJ",
+                           "acesso_agua":  81,
+                           "cobertura_esgoto":  56,
+                           "investimento_total":  114860000
+                       },
+                       {
+                           "municipio":  "Municipio 3-RJ",
+                           "sigla_uf":  "RJ",
+                           "acesso_agua":  89,
+                           "cobertura_esgoto":  62,
+                           "investimento_total":  116490000
+                       },
+                       {
+                           "municipio":  "Municipio 4-RJ",
+                           "sigla_uf":  "RJ",
+                           "acesso_agua":  93,
+                           "cobertura_esgoto":  68,
+                           "investimento_total":  118120000
+                       },
+                       {
+                           "municipio":  "Municipio 5-RJ",
+                           "sigla_uf":  "RJ",
+                           "acesso_agua":  100,
+                           "cobertura_esgoto":  69,
+                           "investimento_total":  119750000
+                       },
+                       {
+                           "municipio":  "Municipio 6-RJ",
+                           "sigla_uf":  "RJ",
+                           "acesso_agua":  66,
+                           "cobertura_esgoto":  75,
+                           "investimento_total":  121380000
+                       },
+                       {
+                           "municipio":  "Municipio 7-RJ",
+                           "sigla_uf":  "RJ",
+                           "acesso_agua":  74,
+                           "cobertura_esgoto":  81,
+                           "investimento_total":  123010000
+                       },
+                       {
+                           "municipio":  "Municipio 8-RJ",
+                           "sigla_uf":  "RJ",
+                           "acesso_agua":  78,
+                           "cobertura_esgoto":  87,
+                           "investimento_total":  124640000
+                       },
+                       {
+                           "municipio":  "Municipio 9-RJ",
+                           "sigla_uf":  "RJ",
+                           "acesso_agua":  86,
+                           "cobertura_esgoto":  27,
+                           "investimento_total":  126270000
+                       },
+                       {
+                           "municipio":  "Municipio 10-RJ",
+                           "sigla_uf":  "RJ",
+                           "acesso_agua":  94,
+                           "cobertura_esgoto":  28,
+                           "investimento_total":  127900000
+                       },
+                       {
+                           "municipio":  "Municipio 11-RJ",
+                           "sigla_uf":  "RJ",
+                           "acesso_agua":  100,
+                           "cobertura_esgoto":  34,
+                           "investimento_total":  129530000
+                       },
+                       {
+                           "municipio":  "Municipio 12-RJ",
+                           "sigla_uf":  "RJ",
+                           "acesso_agua":  63,
+                           "cobertura_esgoto":  40,
+                           "investimento_total":  0
+                       },
+                       {
+                           "municipio":  "Municipio 1-RN",
+                           "sigla_uf":  "RN",
+                           "acesso_agua":  71,
+                           "cobertura_esgoto":  44,
+                           "investimento_total":  129430000
+                       },
+                       {
+                           "municipio":  "Municipio 2-RN",
+                           "sigla_uf":  "RN",
+                           "acesso_agua":  79,
+                           "cobertura_esgoto":  50,
+                           "investimento_total":  131060000
+                       },
+                       {
+                           "municipio":  "Municipio 3-RN",
+                           "sigla_uf":  "RN",
+                           "acesso_agua":  87,
+                           "cobertura_esgoto":  56,
+                           "investimento_total":  132690000
+                       },
+                       {
+                           "municipio":  "Municipio 4-RN",
+                           "sigla_uf":  "RN",
+                           "acesso_agua":  91,
+                           "cobertura_esgoto":  62,
+                           "investimento_total":  134320000
+                       },
+                       {
+                           "municipio":  "Municipio 5-RN",
+                           "sigla_uf":  "RN",
+                           "acesso_agua":  99,
+                           "cobertura_esgoto":  63,
+                           "investimento_total":  135950000
+                       },
+                       {
+                           "municipio":  "Municipio 6-RN",
+                           "sigla_uf":  "RN",
+                           "acesso_agua":  64,
+                           "cobertura_esgoto":  69,
+                           "investimento_total":  137580000
+                       },
+                       {
+                           "municipio":  "Municipio 7-RN",
+                           "sigla_uf":  "RN",
+                           "acesso_agua":  72,
+                           "cobertura_esgoto":  75,
+                           "investimento_total":  139210000
+                       },
+                       {
+                           "municipio":  "Municipio 8-RN",
+                           "sigla_uf":  "RN",
+                           "acesso_agua":  76,
+                           "cobertura_esgoto":  81,
+                           "investimento_total":  140840000
+                       },
+                       {
+                           "municipio":  "Municipio 9-RN",
+                           "sigla_uf":  "RN",
+                           "acesso_agua":  84,
+                           "cobertura_esgoto":  87,
+                           "investimento_total":  142470000
+                       },
+                       {
+                           "municipio":  "Municipio 10-RN",
+                           "sigla_uf":  "RN",
+                           "acesso_agua":  92,
+                           "cobertura_esgoto":  22,
+                           "investimento_total":  144100000
+                       },
+                       {
+                           "municipio":  "Municipio 11-RN",
+                           "sigla_uf":  "RN",
+                           "acesso_agua":  100,
+                           "cobertura_esgoto":  28,
+                           "investimento_total":  145730000
+                       },
+                       {
+                           "municipio":  "Municipio 12-RN",
+                           "sigla_uf":  "RN",
+                           "acesso_agua":  61,
+                           "cobertura_esgoto":  34,
+                           "investimento_total":  147360000
+                       },
+                       {
+                           "municipio":  "Municipio 1-RS",
+                           "sigla_uf":  "RS",
+                           "acesso_agua":  69,
+                           "cobertura_esgoto":  38,
+                           "investimento_total":  145630000
+                       },
+                       {
+                           "municipio":  "Municipio 2-RS",
+                           "sigla_uf":  "RS",
+                           "acesso_agua":  77,
+                           "cobertura_esgoto":  44,
+                           "investimento_total":  147260000
+                       },
+                       {
+                           "municipio":  "Municipio 3-RS",
+                           "sigla_uf":  "RS",
+                           "acesso_agua":  85,
+                           "cobertura_esgoto":  50,
+                           "investimento_total":  148890000
+                       },
+                       {
+                           "municipio":  "Municipio 4-RS",
+                           "sigla_uf":  "RS",
+                           "acesso_agua":  89,
+                           "cobertura_esgoto":  56,
+                           "investimento_total":  150520000
+                       },
+                       {
+                           "municipio":  "Municipio 5-RS",
+                           "sigla_uf":  "RS",
+                           "acesso_agua":  97,
+                           "cobertura_esgoto":  57,
+                           "investimento_total":  152150000
+                       },
+                       {
+                           "municipio":  "Municipio 6-RS",
+                           "sigla_uf":  "RS",
+                           "acesso_agua":  62,
+                           "cobertura_esgoto":  63,
+                           "investimento_total":  0
+                       },
+                       {
+                           "municipio":  "Municipio 7-RS",
+                           "sigla_uf":  "RS",
+                           "acesso_agua":  70,
+                           "cobertura_esgoto":  69,
+                           "investimento_total":  155410000
+                       },
+                       {
+                           "municipio":  "Municipio 8-RS",
+                           "sigla_uf":  "RS",
+                           "acesso_agua":  74,
+                           "cobertura_esgoto":  75,
+                           "investimento_total":  157040000
+                       },
+                       {
+                           "municipio":  "Municipio 9-RS",
+                           "sigla_uf":  "RS",
+                           "acesso_agua":  82,
+                           "cobertura_esgoto":  81,
+                           "investimento_total":  158670000
+                       },
+                       {
+                           "municipio":  "Municipio 10-RS",
+                           "sigla_uf":  "RS",
+                           "acesso_agua":  90,
+                           "cobertura_esgoto":  82,
+                           "investimento_total":  160300000
+                       },
+                       {
+                           "municipio":  "Municipio 11-RS",
+                           "sigla_uf":  "RS",
+                           "acesso_agua":  98,
+                           "cobertura_esgoto":  22,
+                           "investimento_total":  161930000
+                       },
+                       {
+                           "municipio":  "Municipio 12-RS",
+                           "sigla_uf":  "RS",
+                           "acesso_agua":  59,
+                           "cobertura_esgoto":  28,
+                           "investimento_total":  163560000
+                       },
+                       {
+                           "municipio":  "Municipio 1-RO",
+                           "sigla_uf":  "RO",
+                           "acesso_agua":  67,
+                           "cobertura_esgoto":  32,
+                           "investimento_total":  161830000
+                       },
+                       {
+                           "municipio":  "Municipio 2-RO",
+                           "sigla_uf":  "RO",
+                           "acesso_agua":  75,
+                           "cobertura_esgoto":  38,
+                           "investimento_total":  163460000
+                       },
+                       {
+                           "municipio":  "Municipio 3-RO",
+                           "sigla_uf":  "RO",
+                           "acesso_agua":  83,
+                           "cobertura_esgoto":  44,
+                           "investimento_total":  165090000
+                       },
+                       {
+                           "municipio":  "Municipio 4-RO",
+                           "sigla_uf":  "RO",
+                           "acesso_agua":  87,
+                           "cobertura_esgoto":  50,
+                           "investimento_total":  166720000
+                       },
+                       {
+                           "municipio":  "Municipio 5-RO",
+                           "sigla_uf":  "RO",
+                           "acesso_agua":  95,
+                           "cobertura_esgoto":  51,
+                           "investimento_total":  168350000
+                       },
+                       {
+                           "municipio":  "Municipio 6-RO",
+                           "sigla_uf":  "RO",
+                           "acesso_agua":  60,
+                           "cobertura_esgoto":  57,
+                           "investimento_total":  169980000
+                       },
+                       {
+                           "municipio":  "Municipio 7-RO",
+                           "sigla_uf":  "RO",
+                           "acesso_agua":  68,
+                           "cobertura_esgoto":  63,
+                           "investimento_total":  171610000
+                       },
+                       {
+                           "municipio":  "Municipio 8-RO",
+                           "sigla_uf":  "RO",
+                           "acesso_agua":  72,
+                           "cobertura_esgoto":  69,
+                           "investimento_total":  173240000
+                       },
+                       {
+                           "municipio":  "Municipio 9-RO",
+                           "sigla_uf":  "RO",
+                           "acesso_agua":  80,
+                           "cobertura_esgoto":  75,
+                           "investimento_total":  174870000
+                       },
+                       {
+                           "municipio":  "Municipio 10-RO",
+                           "sigla_uf":  "RO",
+                           "acesso_agua":  88,
+                           "cobertura_esgoto":  76,
+                           "investimento_total":  176500000
+                       },
+                       {
+                           "municipio":  "Municipio 11-RO",
+                           "sigla_uf":  "RO",
+                           "acesso_agua":  96,
+                           "cobertura_esgoto":  82,
+                           "investimento_total":  178130000
+                       },
+                       {
+                           "municipio":  "Municipio 12-RO",
+                           "sigla_uf":  "RO",
+                           "acesso_agua":  100,
+                           "cobertura_esgoto":  22,
+                           "investimento_total":  179760000
+                       },
+                       {
+                           "municipio":  "Municipio 1-RR",
+                           "sigla_uf":  "RR",
+                           "acesso_agua":  65,
+                           "cobertura_esgoto":  0,
+                           "investimento_total":  178030000
+                       },
+                       {
+                           "municipio":  "Municipio 2-RR",
+                           "sigla_uf":  "RR",
+                           "acesso_agua":  73,
+                           "cobertura_esgoto":  32,
+                           "investimento_total":  179660000
+                       },
+                       {
+                           "municipio":  "Municipio 3-RR",
+                           "sigla_uf":  "RR",
+                           "acesso_agua":  81,
+                           "cobertura_esgoto":  38,
+                           "investimento_total":  1290000
+                       },
+                       {
+                           "municipio":  "Municipio 4-RR",
+                           "sigla_uf":  "RR",
+                           "acesso_agua":  85,
+                           "cobertura_esgoto":  44,
+                           "investimento_total":  2920000
+                       },
+                       {
+                           "municipio":  "Municipio 5-RR",
+                           "sigla_uf":  "RR",
+                           "acesso_agua":  93,
+                           "cobertura_esgoto":  45,
+                           "investimento_total":  4550000
+                       },
+                       {
+                           "municipio":  "Municipio 6-RR",
+                           "sigla_uf":  "RR",
+                           "acesso_agua":  100,
+                           "cobertura_esgoto":  51,
+                           "investimento_total":  6180000
+                       },
+                       {
+                           "municipio":  "Municipio 7-RR",
+                           "sigla_uf":  "RR",
+                           "acesso_agua":  66,
+                           "cobertura_esgoto":  57,
+                           "investimento_total":  7810000
+                       },
+                       {
+                           "municipio":  "Municipio 8-RR",
+                           "sigla_uf":  "RR",
+                           "acesso_agua":  70,
+                           "cobertura_esgoto":  63,
+                           "investimento_total":  9440000
+                       },
+                       {
+                           "municipio":  "Municipio 9-RR",
+                           "sigla_uf":  "RR",
+                           "acesso_agua":  78,
+                           "cobertura_esgoto":  69,
+                           "investimento_total":  11070000
+                       },
+                       {
+                           "municipio":  "Municipio 10-RR",
+                           "sigla_uf":  "RR",
+                           "acesso_agua":  86,
+                           "cobertura_esgoto":  70,
+                           "investimento_total":  12700000
+                       },
+                       {
+                           "municipio":  "Municipio 11-RR",
+                           "sigla_uf":  "RR",
+                           "acesso_agua":  94,
+                           "cobertura_esgoto":  76,
+                           "investimento_total":  14330000
+                       },
+                       {
+                           "municipio":  "Municipio 12-RR",
+                           "sigla_uf":  "RR",
+                           "acesso_agua":  98,
+                           "cobertura_esgoto":  82,
+                           "investimento_total":  15960000
+                       },
+                       {
+                           "municipio":  "Municipio 1-SC",
+                           "sigla_uf":  "SC",
+                           "acesso_agua":  63,
+                           "cobertura_esgoto":  86,
+                           "investimento_total":  14230000
+                       },
+                       {
+                           "municipio":  "Municipio 2-SC",
+                           "sigla_uf":  "SC",
+                           "acesso_agua":  71,
+                           "cobertura_esgoto":  26,
+                           "investimento_total":  15860000
+                       },
+                       {
+                           "municipio":  "Municipio 3-SC",
+                           "sigla_uf":  "SC",
+                           "acesso_agua":  79,
+                           "cobertura_esgoto":  32,
+                           "investimento_total":  17490000
+                       },
+                       {
+                           "municipio":  "Municipio 4-SC",
+                           "sigla_uf":  "SC",
+                           "acesso_agua":  83,
+                           "cobertura_esgoto":  38,
+                           "investimento_total":  19120000
+                       },
+                       {
+                           "municipio":  "Municipio 5-SC",
+                           "sigla_uf":  "SC",
+                           "acesso_agua":  91,
+                           "cobertura_esgoto":  39,
+                           "investimento_total":  20750000
+                       },
+                       {
+                           "municipio":  "Municipio 6-SC",
+                           "sigla_uf":  "SC",
+                           "acesso_agua":  99,
+                           "cobertura_esgoto":  45,
+                           "investimento_total":  22380000
+                       },
+                       {
+                           "municipio":  "Municipio 7-SC",
+                           "sigla_uf":  "SC",
+                           "acesso_agua":  64,
+                           "cobertura_esgoto":  51,
+                           "investimento_total":  24010000
+                       },
+                       {
+                           "municipio":  "Municipio 8-SC",
+                           "sigla_uf":  "SC",
+                           "acesso_agua":  68,
+                           "cobertura_esgoto":  57,
+                           "investimento_total":  25640000
+                       },
+                       {
+                           "municipio":  "Municipio 9-SC",
+                           "sigla_uf":  "SC",
+                           "acesso_agua":  76,
+                           "cobertura_esgoto":  63,
+                           "investimento_total":  0
+                       },
+                       {
+                           "municipio":  "Municipio 10-SC",
+                           "sigla_uf":  "SC",
+                           "acesso_agua":  84,
+                           "cobertura_esgoto":  64,
+                           "investimento_total":  28900000
+                       },
+                       {
+                           "municipio":  "Municipio 11-SC",
+                           "sigla_uf":  "SC",
+                           "acesso_agua":  92,
+                           "cobertura_esgoto":  70,
+                           "investimento_total":  0
+                       },
+                       {
+                           "municipio":  "Municipio 12-SC",
+                           "sigla_uf":  "SC",
+                           "acesso_agua":  96,
+                           "cobertura_esgoto":  76,
+                           "investimento_total":  32160000
+                       },
+                       {
+                           "municipio":  "Municipio 1-SP",
+                           "sigla_uf":  "SP",
+                           "acesso_agua":  61,
+                           "cobertura_esgoto":  80,
+                           "investimento_total":  30430000
+                       },
+                       {
+                           "municipio":  "Municipio 2-SP",
+                           "sigla_uf":  "SP",
+                           "acesso_agua":  69,
+                           "cobertura_esgoto":  86,
+                           "investimento_total":  32060000
+                       },
+                       {
+                           "municipio":  "Municipio 3-SP",
+                           "sigla_uf":  "SP",
+                           "acesso_agua":  77,
+                           "cobertura_esgoto":  26,
+                           "investimento_total":  33690000
+                       },
+                       {
+                           "municipio":  "Municipio 4-SP",
+                           "sigla_uf":  "SP",
+                           "acesso_agua":  81,
+                           "cobertura_esgoto":  32,
+                           "investimento_total":  35320000
+                       },
+                       {
+                           "municipio":  "Municipio 5-SP",
+                           "sigla_uf":  "SP",
+                           "acesso_agua":  89,
+                           "cobertura_esgoto":  33,
+                           "investimento_total":  36950000
+                       },
+                       {
+                           "municipio":  "Municipio 6-SP",
+                           "sigla_uf":  "SP",
+                           "acesso_agua":  97,
+                           "cobertura_esgoto":  39,
+                           "investimento_total":  38580000
+                       },
+                       {
+                           "municipio":  "Municipio 7-SP",
+                           "sigla_uf":  "SP",
+                           "acesso_agua":  62,
+                           "cobertura_esgoto":  45,
+                           "investimento_total":  40210000
+                       },
+                       {
+                           "municipio":  "Municipio 8-SP",
+                           "sigla_uf":  "SP",
+                           "acesso_agua":  66,
+                           "cobertura_esgoto":  51,
+                           "investimento_total":  41840000
+                       },
+                       {
+                           "municipio":  "Municipio 9-SP",
+                           "sigla_uf":  "SP",
+                           "acesso_agua":  74,
+                           "cobertura_esgoto":  57,
+                           "investimento_total":  43470000
+                       },
+                       {
+                           "municipio":  "Municipio 10-SP",
+                           "sigla_uf":  "SP",
+                           "acesso_agua":  82,
+                           "cobertura_esgoto":  58,
+                           "investimento_total":  45100000
+                       },
+                       {
+                           "municipio":  "Municipio 11-SP",
+                           "sigla_uf":  "SP",
+                           "acesso_agua":  90,
+                           "cobertura_esgoto":  64,
+                           "investimento_total":  46730000
+                       },
+                       {
+                           "municipio":  "Municipio 12-SP",
+                           "sigla_uf":  "SP",
+                           "acesso_agua":  94,
+                           "cobertura_esgoto":  70,
+                           "investimento_total":  48360000
+                       },
+                       {
+                           "municipio":  "Municipio 1-SE",
+                           "sigla_uf":  "SE",
+                           "acesso_agua":  59,
+                           "cobertura_esgoto":  74,
+                           "investimento_total":  46630000
+                       },
+                       {
+                           "municipio":  "Municipio 2-SE",
+                           "sigla_uf":  "SE",
+                           "acesso_agua":  67,
+                           "cobertura_esgoto":  80,
+                           "investimento_total":  48260000
+                       },
+                       {
+                           "municipio":  "Municipio 3-SE",
+                           "sigla_uf":  "SE",
+                           "acesso_agua":  75,
+                           "cobertura_esgoto":  86,
+                           "investimento_total":  49890000
+                       },
+                       {
+                           "municipio":  "Municipio 4-SE",
+                           "sigla_uf":  "SE",
+                           "acesso_agua":  79,
+                           "cobertura_esgoto":  26,
+                           "investimento_total":  51520000
+                       },
+                       {
+                           "municipio":  "Municipio 5-SE",
+                           "sigla_uf":  "SE",
+                           "acesso_agua":  87,
+                           "cobertura_esgoto":  27,
+                           "investimento_total":  53150000
+                       },
+                       {
+                           "municipio":  "Municipio 6-SE",
+                           "sigla_uf":  "SE",
+                           "acesso_agua":  95,
+                           "cobertura_esgoto":  33,
+                           "investimento_total":  54780000
+                       },
+                       {
+                           "municipio":  "Municipio 7-SE",
+                           "sigla_uf":  "SE",
+                           "acesso_agua":  100,
+                           "cobertura_esgoto":  39,
+                           "investimento_total":  56410000
+                       },
+                       {
+                           "municipio":  "Municipio 8-SE",
+                           "sigla_uf":  "SE",
+                           "acesso_agua":  64,
+                           "cobertura_esgoto":  45,
+                           "investimento_total":  58040000
+                       },
+                       {
+                           "municipio":  "Municipio 9-SE",
+                           "sigla_uf":  "SE",
+                           "acesso_agua":  72,
+                           "cobertura_esgoto":  51,
+                           "investimento_total":  59670000
+                       },
+                       {
+                           "municipio":  "Municipio 10-SE",
+                           "sigla_uf":  "SE",
+                           "acesso_agua":  80,
+                           "cobertura_esgoto":  52,
+                           "investimento_total":  61300000
+                       },
+                       {
+                           "municipio":  "Municipio 11-SE",
+                           "sigla_uf":  "SE",
+                           "acesso_agua":  88,
+                           "cobertura_esgoto":  58,
+                           "investimento_total":  62930000
+                       },
+                       {
+                           "municipio":  "Municipio 12-SE",
+                           "sigla_uf":  "SE",
+                           "acesso_agua":  92,
+                           "cobertura_esgoto":  64,
+                           "investimento_total":  64560000
+                       },
+                       {
+                           "municipio":  "Municipio 1-TO",
+                           "sigla_uf":  "TO",
+                           "acesso_agua":  100,
+                           "cobertura_esgoto":  68,
+                           "investimento_total":  62830000
+                       },
+                       {
+                           "municipio":  "Municipio 2-TO",
+                           "sigla_uf":  "TO",
+                           "acesso_agua":  65,
+                           "cobertura_esgoto":  74,
+                           "investimento_total":  64460000
+                       },
+                       {
+                           "municipio":  "Municipio 3-TO",
+                           "sigla_uf":  "TO",
+                           "acesso_agua":  73,
+                           "cobertura_esgoto":  80,
+                           "investimento_total":  66090000
+                       },
+                       {
+                           "municipio":  "Municipio 4-TO",
+                           "sigla_uf":  "TO",
+                           "acesso_agua":  77,
+                           "cobertura_esgoto":  86,
+                           "investimento_total":  67720000
+                       },
+                       {
+                           "municipio":  "Municipio 5-TO",
+                           "sigla_uf":  "TO",
+                           "acesso_agua":  85,
+                           "cobertura_esgoto":  21,
+                           "investimento_total":  69350000
+                       },
+                       {
+                           "municipio":  "Municipio 6-TO",
+                           "sigla_uf":  "TO",
+                           "acesso_agua":  93,
+                           "cobertura_esgoto":  0,
+                           "investimento_total":  70980000
+                       },
+                       {
+                           "municipio":  "Municipio 7-TO",
+                           "sigla_uf":  "TO",
+                           "acesso_agua":  100,
+                           "cobertura_esgoto":  33,
+                           "investimento_total":  72610000
+                       },
+                       {
+                           "municipio":  "Municipio 8-TO",
+                           "sigla_uf":  "TO",
+                           "acesso_agua":  62,
+                           "cobertura_esgoto":  39,
+                           "investimento_total":  74240000
+                       },
+                       {
+                           "municipio":  "Municipio 9-TO",
+                           "sigla_uf":  "TO",
+                           "acesso_agua":  70,
+                           "cobertura_esgoto":  45,
+                           "investimento_total":  75870000
+                       },
+                       {
+                           "municipio":  "Municipio 10-TO",
+                           "sigla_uf":  "TO",
+                           "acesso_agua":  78,
+                           "cobertura_esgoto":  46,
+                           "investimento_total":  77500000
+                       },
+                       {
+                           "municipio":  "Municipio 11-TO",
+                           "sigla_uf":  "TO",
+                           "acesso_agua":  86,
+                           "cobertura_esgoto":  52,
+                           "investimento_total":  79130000
+                       },
+                       {
+                           "municipio":  "Municipio 12-TO",
+                           "sigla_uf":  "TO",
+                           "acesso_agua":  90,
+                           "cobertura_esgoto":  58,
+                           "investimento_total":  80760000
+                       }
+                   ],
+    "municipios_criticos":  [
+                                {
+                                    "municipio":  "Municipio 5-AM",
+                                    "sigla_uf":  "AM",
+                                    "acesso_agua":  88,
+                                    "cobertura_esgoto":  27,
+                                    "investimento_total":  0
+                                },
+                                {
+                                    "municipio":  "Municipio 5-BA",
+                                    "sigla_uf":  "BA",
+                                    "acesso_agua":  86,
+                                    "cobertura_esgoto":  0,
+                                    "investimento_total":  72950000
+                                },
+                                {
+                                    "municipio":  "Municipio 9-BA",
+                                    "sigla_uf":  "BA",
+                                    "acesso_agua":  71,
+                                    "cobertura_esgoto":  45,
+                                    "investimento_total":  0
+                                },
+                                {
+                                    "municipio":  "Municipio 10-DF",
+                                    "sigla_uf":  "DF",
+                                    "acesso_agua":  75,
+                                    "cobertura_esgoto":  34,
+                                    "investimento_total":  0
+                                },
+                                {
+                                    "municipio":  "Municipio 10-GO",
+                                    "sigla_uf":  "GO",
+                                    "acesso_agua":  71,
+                                    "cobertura_esgoto":  0,
+                                    "investimento_total":  145900000
+                                },
+                                {
+                                    "municipio":  "Municipio 6-MA",
+                                    "sigla_uf":  "MA",
+                                    "acesso_agua":  84,
+                                    "cobertura_esgoto":  63,
+                                    "investimento_total":  0
+                                },
+                                {
+                                    "municipio":  "Municipio 3-MT",
+                                    "sigla_uf":  "MT",
+                                    "acesso_agua":  62,
+                                    "cobertura_esgoto":  44,
+                                    "investimento_total":  0
+                                },
+                                {
+                                    "municipio":  "Municipio 3-PA",
+                                    "sigla_uf":  "PA",
+                                    "acesso_agua":  99,
+                                    "cobertura_esgoto":  0,
+                                    "investimento_total":  35490000
+                                },
+                                {
+                                    "municipio":  "Municipio 8-PA",
+                                    "sigla_uf":  "PA",
+                                    "acesso_agua":  88,
+                                    "cobertura_esgoto":  51,
+                                    "investimento_total":  0
+                                },
+                                {
+                                    "municipio":  "Municipio 3-PB",
+                                    "sigla_uf":  "PB",
+                                    "acesso_agua":  97,
+                                    "cobertura_esgoto":  86,
+                                    "investimento_total":  0
+                                },
+                                {
+                                    "municipio":  "Municipio 1-PI",
+                                    "sigla_uf":  "PI",
+                                    "acesso_agua":  75,
+                                    "cobertura_esgoto":  56,
+                                    "investimento_total":  0
+                                },
+                                {
+                                    "municipio":  "Municipio 8-PI",
+                                    "sigla_uf":  "PI",
+                                    "acesso_agua":  80,
+                                    "cobertura_esgoto":  0,
+                                    "investimento_total":  108440000
+                                },
+                                {
+                                    "municipio":  "Municipio 12-RJ",
+                                    "sigla_uf":  "RJ",
+                                    "acesso_agua":  63,
+                                    "cobertura_esgoto":  40,
+                                    "investimento_total":  0
+                                },
+                                {
+                                    "municipio":  "Municipio 6-RS",
+                                    "sigla_uf":  "RS",
+                                    "acesso_agua":  62,
+                                    "cobertura_esgoto":  63,
+                                    "investimento_total":  0
+                                },
+                                {
+                                    "municipio":  "Municipio 1-RR",
+                                    "sigla_uf":  "RR",
+                                    "acesso_agua":  65,
+                                    "cobertura_esgoto":  0,
+                                    "investimento_total":  178030000
+                                },
+                                {
+                                    "municipio":  "Municipio 9-SC",
+                                    "sigla_uf":  "SC",
+                                    "acesso_agua":  76,
+                                    "cobertura_esgoto":  63,
+                                    "investimento_total":  0
+                                },
+                                {
+                                    "municipio":  "Municipio 11-SC",
+                                    "sigla_uf":  "SC",
+                                    "acesso_agua":  92,
+                                    "cobertura_esgoto":  70,
+                                    "investimento_total":  0
+                                },
+                                {
+                                    "municipio":  "Municipio 6-TO",
+                                    "sigla_uf":  "TO",
+                                    "acesso_agua":  93,
+                                    "cobertura_esgoto":  0,
+                                    "investimento_total":  70980000
+                                }
+                            ]
+}

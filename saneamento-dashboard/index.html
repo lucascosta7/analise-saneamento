@@ -1,0 +1,90 @@
+﻿<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dashboard de Saneamento no Brasil</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div>
+      <p class="eyebrow">Análise de Saneamento Básico</p>
+      <h1>Panorama Interativo do Saneamento no Brasil</h1>
+      <p class="subtitle">Explore investimentos, acesso à água e cobertura de esgoto por estado e município.</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section aria-labelledby="overview-title">
+      <h2 id="overview-title">Visão Geral</h2>
+      <div id="kpi-grid" class="kpi-grid"></div>
+      <div class="chart-grid">
+        <article class="panel"><h3>Top Investimento em Água e Esgoto</h3><canvas id="investChart"></canvas></article>
+        <article class="panel"><h3>Cobertura de Esgoto por Estado</h3><canvas id="esgotoChart"></canvas></article>
+      </div>
+      <article class="panel"><h3>Distribuição de Acesso à Água por Município</h3><canvas id="aguaDistChart"></canvas></article>
+    </section>
+
+    <section aria-labelledby="state-title">
+      <div class="section-head">
+        <h2 id="state-title">Análise por Estado</h2>
+        <label for="stateSelect">Estado</label>
+        <select id="stateSelect"></select>
+      </div>
+      <div id="state-kpis" class="kpi-grid"></div>
+      <article class="panel">
+        <h3>Municípios do Estado</h3>
+        <div class="table-tools"><span>Ordene clicando no cabeçalho</span></div>
+        <div class="table-wrap">
+          <table id="stateTable">
+            <thead>
+              <tr>
+                <th data-key="municipio">Município</th>
+                <th data-key="acesso_agua">Acesso à Água (%)</th>
+                <th data-key="cobertura_esgoto">Cobertura de Esgoto (%)</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <div id="statePagination" class="pagination"></div>
+      </article>
+    </section>
+
+    <section aria-labelledby="critical-title">
+      <h2 id="critical-title">Municípios Críticos</h2>
+      <article class="panel">
+        <div class="table-tools">
+          <label for="criticalSearch">Busca</label>
+          <input id="criticalSearch" type="search" placeholder="Buscar município ou UF" />
+        </div>
+        <div class="table-wrap">
+          <table id="criticalTable">
+            <thead>
+              <tr>
+                <th data-key="municipio">Município</th>
+                <th data-key="sigla_uf">Estado</th>
+                <th data-key="investimento_total">Investimento Total</th>
+                <th data-key="cobertura_esgoto">Cobertura de Esgoto (%)</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <div id="criticalPagination" class="pagination"></div>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    Desenvolvido por Lucas Gabriel Lopes Costa · Dados: IBGE / Governo Federal · Stack: Pandas + FastAPI + Chart.js
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="app.js" defer></script>
+</body>
+</html>

@@ -20,4 +20,4 @@ Analisar a situação de investimento e cobertura de água e esgoto nos municíp
 O dataset utilizado foi `saneamento.csv`, com dados de populações, investimentos e cobertura de água/esgoto.
 
 ## 👨‍💻 Autor
-Lucas Gabriel Lopes Costa — 16 anos, estudante de Desenvolvimento de Sistemas na Etec de Itaquera.
+Lucas Gabriel Lopes Costa — 17 anos, estudante de Desenvolvimento de Sistemas na Etec de Itaquera.
